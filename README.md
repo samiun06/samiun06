@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Samiun
+- 👀 I’m passionate about programming
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: samiunblack@gmail.com
