@@ -1,4 +1,4 @@
-# Hi, I am Samiun
+# Hi, I am Samiun <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif"/>
 
 ## I am a 😍😍 React Lover 😍😍
 
@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Next.js, React Native, Django
 - ⚡ Fun fact: I love to read non fiction books
+- 📬 Reach me out at samiunjahan06@gmail.com
 
 **Stacks I love to work with**
 
