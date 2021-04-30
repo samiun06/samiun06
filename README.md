@@ -11,3 +11,7 @@
 	"UI": ["Bootstrap", "Material UI"]
 }
 ```
+
+Languages and Tools
+
+Visual Studio CodeHTML5CSS3SassJavaScriptReactGatsbyGraphQLNode.jsDenoDenoSQLMySQLMongoDBGitGitHubHTML5
