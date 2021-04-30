@@ -4,6 +4,11 @@
 
 **Stacks I love to work with**
 
+- 🔭 I’m currently working nowhere 🙃
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2021 Goals: Next.js, React Native, Django
+- ⚡ Fun fact: I love to read non fiction books
+
 ```jsx
 {
 	"Frontend" : ["React.js"],
